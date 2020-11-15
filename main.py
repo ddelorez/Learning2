@@ -10,6 +10,8 @@ class PlayerCharacter:
 
 
 player1 = PlayerCharacter("Dave")
+player2 = PlayerCharacter("Lily")
 
-print(player1)
+print(player1.name)
+print(player2.name)
 
